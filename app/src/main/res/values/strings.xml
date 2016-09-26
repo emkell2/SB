@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Kelley Challenge</string>
+    <string name="action_settings">Settings</string>
+    <string name="default_search_results">0 Results</string>
+
+    <string name="searchable">Searchable</string>
+    <string name="menu_search">Search</string>
+
+</resources>

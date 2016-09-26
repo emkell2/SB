@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Negative margins to offset the parent padding for the Toolbar -->
+    <dimen name="activity_negative_horizontal_margin">-16dp</dimen>
+    <dimen name="activity_negative_vertical_margin">-16dp</dimen>
+
+</resources>
